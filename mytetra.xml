@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="135198716638i9t8jggj" name="Carding">
+   <recordtable>
+    <record dir="1351987886uvgjgl0xq8" crypt="0" url="http://moneyvor.rolka.su/viewtopic.php?id=19" tags="carding, словарь" author="Добрый" id="13519878869tqir58k4d" ctime="20121104041126" name="Словарь Кардера" file="text.html"/>
+    <record dir="1382663470uzjmrrfqeu" crypt="0" url="http://r2d2akbw3jpt4zbf.onion/viewtopic.php?id=417" tags="CCFD" author="" id="1382663470ekw7oceeiw" ctime="20131025021110" name="Credit Card Fraud Detection service" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1354252462j8tolol9sa" name="Social engineering">
+   <recordtable>
+    <record dir="1354252649tqsjtw5kfb" crypt="0" url="http://shuhov69.narod.ru/index.htm" tags="call, sell, se" author="Игорь Шухов" id="13542526496rl56olntl" ctime="20121130091729" name="Телефонные продажи: с чего начать?" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="145382666319vkc8fgku" name="Genesys">
+   <recordtable>
+    <record dir="14538277478t690w8r2n" crypt="0" url="" tags="" author="" id="1453827747l5dwu37t6k" ctime="20160126210227" name="Regular cheking" file="text.html"/>
+   </recordtable>
+   <node id="1453826677o55wd7hjj9" name="SIPServer">
+    <recordtable>
+     <record dir="1453826854sb0y7t5oc5" crypt="0" url="" tags="" author="" id="1453826854emlwr270iy" ctime="20160126204734" name="Overview" file="text.html"/>
+     <record dir="1453827478ezqgvyijyg" crypt="0" url="" tags="" author="" id="1453827478xs40ohm033" ctime="20160126205758" name="Deployment" file="text.html"/>
+     <record dir="14538276936o1fgkd5v0" crypt="0" url="" tags="" author="" id="1453827693yp17qjbpyu" ctime="20160126210133" name="Options" file="text.html"/>
+     <record dir="1453829961phe7qazisk" crypt="0" url="" tags="" author="" id="1453829961gv3kite414" ctime="20160126213921" name="Mapping" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
